@@ -1,0 +1,21 @@
+{
+    "name": "hypersubatomic",
+    "displayName": "Hypersubatomic",
+    "description": "Hypersubatomic VS Code Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hypersubatomic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hypersubatomic-color-theme.json"
+            }
+        ]
+    }
+}
