@@ -2,7 +2,7 @@
     "name": "hypersubatomic",
     "displayName": "Hypersubatomic",
     "description": "Hypersubatomic is a high contrast UI and syntax theme for VSCode",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "neilpanchal",
     "bugs": {
         "url": "https://github.com/neilpanchal/hypersubatomic-vscode-theme/issues"
@@ -26,6 +26,12 @@
                 "path": "./themes/Hypersubatomic-color-theme.json"
             }
         ]
+    },
+    "license": "MIT",
+    "icon": "static/icon.png",
+    "galleryBanner": {
+        "color": "#00ae6b",
+        "theme": "dark"
     },
     "keywords":[
         "hypersubatomic",
