@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "hypersubatomic"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Hypersubatomic VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+The UI colorscheme is based on *Material Theme - Ocean High Contrast*. The Syntax palette is inspired from a chromatic palette similar to Solarized, however, there are significant deviations. Hypersubatomic uses a more vibrant palette with higher saturation against a dark background to create a high contrast theme. Color luminosities have been carefully crafted by optical adjustment to create a balanced palette. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Please file an issue if you find a bug or a PR for new language syntax features.
