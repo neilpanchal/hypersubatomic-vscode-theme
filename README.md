@@ -5,22 +5,22 @@ The Syntax palette is inspired from a chromatic palette similar to Solarized, ho
 Please file an issue if you find a bug or a PR for new language syntax features.
 
 ### Color Palette
-![Color Palette](/static/color-palette.png)
+![Color Palette](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/color-palette.png)
 
 ### Python
-![Python Screenshot](/static/sample-py.png)
+![Python Screenshot](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/sample-py.png)
 
 ### PHP
-![PHP Screenshot](/static/sample-php.png)
+![PHP Screenshot](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/sample-php.png)
 
 ### Javascript
-![Javascript Screenshot](/static/sample-js.png)
+![Javascript Screenshot](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/sample-js.png)
 
 ### C++
-![C++ Screenshot](/static/sample-cpp.png)
+![C++ Screenshot](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/sample-cpp.png)
 
 ### HTML
-![HTML Screenshot](/static/sample-html.png)
+![HTML Screenshot](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/sample-html.png)
 
 ### CSS
-![CSS Screenshot](/static/sample-css.png)
+![CSS Screenshot](https://raw.githubusercontent.com/neilpanchal/hypersubatomic-vscode-theme/master/static/sample-css.png)
