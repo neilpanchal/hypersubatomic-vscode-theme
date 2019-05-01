@@ -2,8 +2,8 @@
     "name": "hypersubatomic",
     "displayName": "Hypersubatomic",
     "description": "Hypersubatomic is a high contrast UI and syntax theme for VSCode",
-    "version": "0.1.0",
-    "publisher": "Neil Panchal",
+    "version": "0.1.1",
+    "publisher": "neilpanchal",
     "bugs": {
         "url": "https://github.com/neilpanchal/hypersubatomic-vscode-theme/issues"
       },
