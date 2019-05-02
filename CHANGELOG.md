@@ -1,4 +1,9 @@
-# Change Log
+# Hypersubatomic Change Log
+
+## [0.1.3] - 2019-05-01
+### Changed
+- Fixed Readme
+
 ## [0.1.2] - 2019-05-01
 ### Added
 - Updated extension with icons
