@@ -26,7 +26,7 @@
 				"string.quoted.double.block"
 			],
 			"settings": {
-				"foreground": "#31415f"
+				"foreground": "#42577e"
 			}
 		},
 		{
@@ -596,7 +596,8 @@
 		"tab.activeModifiedBorder": "#4B526D",
 		"tab.unfocusedActiveBorder": "#464B5D",
 		"tab.activeForeground": "#FFFFFF",
-		"tab.inactiveForeground": "#4B526D",
+		"tab.activeBackground" : "#272937",
+		"tab.inactiveForeground": "#8F93A2",
 		"tab.inactiveBackground": "#0F111A",
 		"tab.unfocusedActiveForeground": "#8F93A2",
 		"tab.border": "#0F111A",
@@ -604,7 +605,7 @@
 		"statusBar.border": "#00000060",
 		"statusBar.background": "#090B10",
 		"statusBar.foreground": "#4B526D",
-		"statusBar.debuggingBackground": "#875afb",
+		"statusBar.debuggingBackground": "#ffc200",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBarItem.hoverBackground": "#464B5D20",
 		"activityBar.background": "#090B10",
@@ -617,8 +618,8 @@
 		"titleBar.inactiveBackground": "#090B10",
 		"titleBar.inactiveForeground": "#4B526D",
 		"sideBar.background": "#090B10",
-		"sideBar.foreground": "#4B526D",
-		"sideBar.border": "#00000060",
+		"sideBar.foreground": "#8F93A2",
+		"sideBar.border": "#383a3f",
 		"titleBar.border": "#00000060",
 		"sideBarTitle.foreground": "#8F93A2",
 		"sideBarSectionHeader.background": "#090B10",

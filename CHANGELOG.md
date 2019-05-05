@@ -1,5 +1,10 @@
 # Hypersubatomic Change Log
 
+## [0.1.4] - 2019-05-05
+### Changed
+- Improved active tab background color
+- Improved legibility of the Explorer list of files by changing foreground color
+
 ## [0.1.3] - 2019-05-01
 ### Changed
 - Fixed Readme
